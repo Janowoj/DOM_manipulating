@@ -1,0 +1,18 @@
+/* .workshop {
+    display: inline-block;
+    text-align: center;
+}
+
+.workshop img {
+    display: block;
+} */
+
+.logo {
+    display: inline-block;
+    text-align: center;
+}
+
+.logo img {
+    display: block;
+    padding: 1rem;
+}
